@@ -1,6 +1,6 @@
 # Seja bem vindo ao meu GitHub 👋
 
-Olá, eu sou Pedro Braga, um entusiasta da programação de 22 anos apaixonado por transformar linhas de código em soluções práticas. Atualmente, sou formado em Analise e Desenvolvimento de sistemas pelo Senai, estou no primeiro periodo da faculdade em sistemas de informação.
+Olá, eu sou Pedro Braga, um entusiasta da programação de 23 anos apaixonado por transformar linhas de código em soluções práticas. Atualmente, sou formado em Analise e Desenvolvimento de sistemas pelo Senai, estou no segundo periodo da faculdade em sistemas de informação pela Estácio.
 
 Estou constantemente buscando aprender e aprimorar minhas habilidades no vasto mundo da tecnologia.
 
@@ -12,7 +12,7 @@ Estou constantemente buscando aprender e aprimorar minhas habilidades no vasto m
 
 ## Aprendendo Atualmente
 
-Atualmente, estou focado em aprimorar minhas habilidades em Php,html e css e me aventurando na linguagem C.
+Atualmente, estou focado em aprimorar minhas habilidades em Php,html,Java script e css e me aventurando na linguagem C.
 
 
 ## Visando futuramente
